@@ -2,5 +2,5 @@
 
 prop:
   name: example
-  password: none
+  password: null
 
